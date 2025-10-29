@@ -1,4 +1,4 @@
-# 👨‍💻 SMIT Modern Web & Mobile App Development Batch 18th – Student Resource Hub
+# 👨‍💻 SMIT Modern Web & App Development Batch 18th – Student Resource Hub
 
 Welcome to the official learning hub for **SMIT Modern Web & Mobile App Development Batch 18th**.  
 This repo is used by **500+ students daily** to stay on track with classwork, assignments, and projects.
